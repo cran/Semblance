@@ -1,0 +1,8 @@
+5c3cdfef0d8c0e90f83c4b6e00a245bf *DESCRIPTION
+20b7c9dbac2c84de744c4c34ea397c4e *NAMESPACE
+980b03e43a15b1f0ca7f54d54aa36123 *R/semblance.R
+fa727deec58ab1ad07139fa30ea4dbd3 *man/computeSemblanceOneFeature.Rd
+88cbb097857ca4c6577382a8cf90373d *man/makeUpperLower.Rd
+c5a79aee6c62874d3ba27e62c6ce77a2 *man/ranksem.Rd
+f127179449775ba388bafd154cdde221 *man/repCol.Rd
+5f65a2e9e2eb5a13ba535c8ae2518409 *man/repRow.Rd
