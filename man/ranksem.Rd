@@ -23,7 +23,7 @@ naturally lends itself to the construction of a distance metric that emphasizes 
 from the mean of their probability distribution. Semblance relies on properties empirically determined from the data and
 does not assume an underlying distribution. The use of feature ranks on a probability space ensures that Semblance is
 computational efficacious, robust to outliers, and statistically stable, thus making it widely applicable algorithm for
-pattern analysis.
+pattern analysis. This R package accompanies the research article "Semblance: A Data-driven Kernel Redefines the Notion of Similarity", to appear in Science Advances.
 }
 \examples{
 # Simulation Example when the user inputs a matrix with single-cell gene expression data
